@@ -6,6 +6,7 @@ It is also a form of [defensive publishing](https://en.wikipedia.org/wiki/Defens
 to provide prior art of last resort when search for older prior art fails.
 It is pushed to [Bitbucket](https://bitbucket.org/robertvazan/sourceafis-ideas/src)
 and [GitHub](https://github.com/robertvazan/sourceafis-ideas).
+All content in this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 - 2018-03-11 [Block map](posts/2018-03-11-block-map.md)
 
