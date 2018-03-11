@@ -8,6 +8,7 @@ It is pushed to [Bitbucket](https://bitbucket.org/robertvazan/sourceafis-ideas/s
 and [GitHub](https://github.com/robertvazan/sourceafis-ideas).
 All content in this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
+- 2018-03-11 [Configurable DPI](posts/2018-03-11-configurable-dpi.md)
 - 2018-03-11 [Representation of fingerprint images in memory](posts/2018-03-11-representation-of-fingerprint-images-in-memory.md)
 - 2018-03-11 [Block map](posts/2018-03-11-block-map.md)
 
